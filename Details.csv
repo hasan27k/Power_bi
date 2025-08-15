@@ -1,0 +1,21 @@
+Order Id,Amount,Profit,Quantity,Category,Sub-Category,Payment-Mode
+B-96321,1045,600,152,Electronic,Video Game,UPI
+B-96325,654,299,47,Clothing,Saree,CASH
+B-96324,2584,1200,54,Furniture,Chairs,CARD
+B-96326,2634,1600,-56,Cosmetic,Lipstic,EMI
+B-96385,1594,940,153,Electronic,Video Game,CASH
+B-96378,236,90,10,Cosmetic,Lipstic,CARD
+B-52898,854,378,-29,Electronic,Video Game,UPI
+B-78945,5661,2645,-157,Clothing,Saree,UPI
+B-96785,554,230,63,Clothing,Saree,CARD
+B-78954,126,48,27,Cosmetic,Lipstic,CASH
+B-25894,954,287,110,Electronic,Video Game,EMI
+B-75345,451,249,45,Furniture,Chairs,EMI
+B-49654,665,301,68,Furniture,Chairs,UPI
+B-98574,362,124,45,Furniture,Chairs,UPI
+B-45968,320,196,28,Cosmetic,Lipstic,CASH
+B-63875,850,412,210,Cosmetic,Lipstic,CASH
+B-45925,754,374,49,Furniture,Chairs,CARD
+B-99857,96,28,11,Electronic,Video Game,UPI
+B-99445,456,276,76,Clothing,Saree,CASH
+B-96654,159,64,23,Clothing,Saree,UPI
